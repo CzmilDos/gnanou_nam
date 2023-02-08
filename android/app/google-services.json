@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "320109112932",
+    "project_id": "gnanounam-5d774",
+    "storage_bucket": "gnanounam-5d774.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320109112932:android:67541483104b5fb3d13971",
+        "android_client_info": {
+          "package_name": "com.zetrof.gnanou_nam"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320109112932-o8jrr4htfd5vtl03d6osj35hu4hvnu2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2BxzuDYKBYdhfu8BLwnLMA586UbqJtCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320109112932-o8jrr4htfd5vtl03d6osj35hu4hvnu2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
